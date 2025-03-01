@@ -2,16 +2,16 @@
 
 ### *Hotkeys*
 *Normal Mode Mappings*
-- <C-h> Moves to the start of the line (N)
-- <C-l> Moves to the end of the line (N)
-- <C-k> Makes a new line above cursor (N)
-- <C-j> Makes a new line below cursor (N)
-- <A-k> Moves current line up (N)
-- <A-j> Moves current line down (N)
+- \<C-h\> Moves to the start of the line (N)
+- \<C-l\> Moves to the end of the line (N)
+- \<C-k\> Makes a new line above cursor (N)
+- \<C-j\> Makes a new line below cursor (N)
+- \<A-k\> Moves current line up (N)
+- \<A-j\> Moves current line down (N)
 
 *Insert Mode Mappings*
-- <jj> Exits Insert Mode
-- <jk> Exits Insert Mode
+- \<jj\> Exits Insert Mode
+- \<jk\> Exits Insert Mode
 
 ---
 
